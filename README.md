@@ -191,16 +191,6 @@ Passion: Coding + Creating Impact Through Code & AI
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=UtkarshUpadhyay31&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -245,19 +235,12 @@ Passion: Coding + Creating Impact Through Code & AI
 
 | 🚀 Project | 💡 Description |
 |------------|----------------|
-| 🧠 [मानसिक संतुलन](https://manshik-santulan.vercel.app/) | AI-powered Mental Health Support Platform |
-| 🏦 IntelliSecure Bank | Secure Banking System Project (Contributor) |
-| 🌾 Krishi Sahara | Smart Agriculture Assistance Platform (Contributor) |
+| 🧠 [Manshik Santulan](https://manshik-santulan.vercel.app/) | AI-powered Mental Health Support Platform |
+| 🌾 [Krishi Sahara](https://krishi-sahara.vercel.app/) | Smart Agriculture Assistance Platform |
 
 ---
 
-# 🧠 मानसिक संतुलन
-
-<p align="center">
-
-<img width="85%" src="https://user-images.githubusercontent.com/74038190/212284068-acc5c8f6-8537-4c1f-bc63-0f8d2d7b6d22.gif"/>
-
-</p>
+# 🧠 Manshik Santulan
 
 ### ✨ Features
 
@@ -275,39 +258,21 @@ Passion: Coding + Creating Impact Through Code & AI
 <img src="https://img.shields.io/badge/🚀_Visit_Project-green?style=for-the-badge"/>
 </a>
 
----
-
-# 🏦 IntelliSecure Bank
-
-- 🔐 Secure Authentication  
-- 💳 Banking Dashboard  
-- 📊 Transaction Monitoring  
-- 🛡️ Security Focused Architecture  
-
----
-
 # 🌾 Krishi Sahara
 
-- 🌱 Farmer Assistance  
-- 📈 Agricultural Insights  
-- ☁️ Weather Information  
-- 🚜 Smart Farming Support  
+ ### ✨ Features
+ 
+- 🤖 AI-Powered Crop Recommendations
+- 🦠 AI-Based Plant Disease Detection
+- 📊 Predictive Analytics for Better Yield
+- 🌦️ Weather-Aware Farming Decisions
+- 💡 Data-Driven Agricultural Insights
 
----
+### 🌐 Live Project
 
-# 🧠 DSA Progress
-
-Arrays          ██████████████░░
-
-Strings         ████████████░░░
-
-Binary Search   ███████████░░░░
-
-Linked List     █████████░░░░░░
-
-Trees           ███████░░░░░░░░
-
-Dynamic Prog.   █████░░░░░░░░░░
+<a href="https://krishi-sahara.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Visit_Project-green?style=for-the-badge"/>
+</a>
 
 ---
 
