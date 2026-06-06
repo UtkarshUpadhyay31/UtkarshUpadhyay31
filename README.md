@@ -66,7 +66,7 @@ Passion: Coding + Creating Impact Through Code & AI
 
 ---
 
-# ⚡Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -122,7 +122,27 @@ Passion: Coding + Creating Impact Through Code & AI
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://skillicons.dev/icons?i=mysql" width="70"/>
+
+</p>
+
+---
+
+<h3>📊 Data Science & Analytics</h3>
+
+<p align="center">
+
+<img src="https://numpy.org/images/logo.svg" width="70"/>
 &nbsp;&nbsp;&nbsp;
+
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="70"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://avatars.githubusercontent.com/u/83768144?s=200&v=4" width="70"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="70"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="70"/>
 
 </p>
 
@@ -150,7 +170,7 @@ Passion: Coding + Creating Impact Through Code & AI
 
 ---
 
-<h3>🛠️ Tools</h3>
+<h3>🛠️ Tools & Platforms</h3>
 
 <p align="center">
 
@@ -167,29 +187,7 @@ Passion: Coding + Creating Impact Through Code & AI
 
 </p>
 
----
-
-<h3>📊 Data Visualization</h3>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="70"/>
-
-</p>
-
-
 </div>
-
----
 
 # 📈 Contribution Graph
 
