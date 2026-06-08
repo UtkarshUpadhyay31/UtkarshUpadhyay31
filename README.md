@@ -164,7 +164,6 @@ Passion: Coding + Creating Impact Through Code & AI
 <img src="https://skillicons.dev/icons?i=anaconda" width="70"/>
 &nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=linux" width="70"/>
 
 </p>
 
@@ -184,6 +183,9 @@ Passion: Coding + Creating Impact Through Code & AI
 &nbsp;&nbsp;&nbsp;
 
 <img src="https://skillicons.dev/icons?i=vercel" width="70"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://railway.app/brand/logo-light.png" width="70"/>
 
 </p>
 
