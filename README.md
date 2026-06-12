@@ -36,8 +36,7 @@ Passion: Coding + Creating Impact Through Code & AI
 - 💻 Solving DSA & Competitive Programming Problems  
 - 🧠 Exploring Artificial Intelligence & Machine Learning  
 - 🏆 1st Place Winner at AI Hack Matrix (CU) 
-- 🌟 SIH Grand Finalist 
-- ⚡ Open Source Contributor  
+- 🌟 SIH Grand Finalist   
 - 🎯 Goal → Become an Software Engineer  
 
 ---
@@ -191,36 +190,6 @@ Passion: Coding + Creating Impact Through Code & AI
 
 </div>
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshUpadhyay31&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtkarshUpadhyay31&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 💻 LeetCode Dashboard
 
 <p align="center">
@@ -274,23 +243,8 @@ Passion: Coding + Creating Impact Through Code & AI
 <img src="https://img.shields.io/badge/🚀_Visit_Project-green?style=for-the-badge"/>
 </a>
 
----
-
-# 🌟 Currently Exploring
-
-Artificial Intelligence  ████████████████
-
-Machine Learning         ██████████████░
-
-Deep Learning            ███████████░░░░
-
-System Design            ████████░░░░░░
-
----
-
 <h2 align="center">
 
 ⭐ Code • Learn • Build • Repeat ⭐
 
 </h2>
-
