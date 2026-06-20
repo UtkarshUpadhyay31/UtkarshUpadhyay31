@@ -11,9 +11,7 @@
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=UtkarshUpadhyay31&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/UtkarshUpadhyay31?style=for-the-badge&color=orange"/>
-
+<img src="https://img.shields.io/github/followers/UtkarshUpadhyay31.svg?style=for-the-badge&label=Followers" />
 <img src="https://img.shields.io/github/stars/UtkarshUpadhyay31?style=for-the-badge&color=yellow"/>
 
 </p>
