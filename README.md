@@ -1,248 +1,179 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Upadhyay</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Intelligent Systems Developer | 🎯 Competitive Programmer |⚡Full Stack Builder
-</h3>
+# 👋 Hey, I'm **Utkarsh Upadhyay**
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=AI+%26+ML+Developer;Full+Stack+Developer;Open+Source+Contributor;Building+Real+World+Projects;🌱+Lifelong+Learner"/>
-</p>
+### `AI/ML Developer` · `Full-Stack Developer` · `Problem Solver`
 
-<p align="center">
+*I don't just learn technologies — I build with them.*
 
-<img src="https://komarev.com/ghpvc/?username=UtkarshUpadhyay31&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/UtkarshUpadhyay31.svg?style=for-the-badge&label=Followers" />
-<img src="https://img.shields.io/github/stars/UtkarshUpadhyay31?style=for-the-badge&color=yellow"/>
-
-</p>
-
----
-
-# 🌌 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```yaml
-Name: Utkarsh Upadhyay
-Role: Full-Stack Developer
-Focus: Real World AI Projects
-Learning: Deep Learning & GenAI
-Passion: Coding + Creating Impact Through Code & AI
-```
-
-- 🚀 Building AI-Powered Applications  
-- 💻 Solving DSA & Competitive Programming Problems  
-- 🧠 Exploring Artificial Intelligence & Machine Learning  
-- 🏆 1st Place Winner at AI Hack Matrix (CU) 
-- 🌟 SIH Grand Finalist   
-- 🎯 Goal → Become an Software Engineer  
-
----
-
-# 📬 Connect With Me
-
-<p align="center">
-
-<a href="mailto:itsutkarshupadhyay@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/utkarsh-upadhyay-89bb42324">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/UtkarshUpadhyay31">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
 <a href="https://leetcode.com/u/Utkarsh_Upadhyay31/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+<a href="https://www.linkedin.com/in/utkarsh-upadhyay-89bb42324">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:itsutkarshupadhyay@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</p>
+<br/><br/>
 
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<h3>👨‍💻 Languages</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=cpp" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=python" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=java" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=javascript" width="70"/>
-
-</p>
-
----
-
-<h3>🌐 Frontend</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=html" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=css" width="70"/>
-
-</p>
-
----
-
-<h3>⚙️ Backend & Database</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=mysql" width="70"/>
-
-</p>
-
----
-
-<h3>📊 Data Science & Analytics</h3>
-
-<p align="center">
-
-<img src="https://numpy.org/images/logo.svg" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://avatars.githubusercontent.com/u/83768144?s=200&v=4" width="70"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="70"/>
-
-</p>
-
----
-
-<h3>🤖 AI / ML</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=pytorch" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=opencv" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=anaconda" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-
-</p>
-
----
-
-<h3>🛠️ Tools & Platforms</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=github" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vercel" width="70"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://railway.app/brand/logo-light.png" width="70"/>
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=UtkarshUpadhyay31&style=flat-square&color=blue" />
 
 </div>
 
-# 💻 LeetCode Dashboard
+---
 
-<p align="center">
+## 🧑‍💻 About Me
 
-<img src="https://leetcard.jacoblin.cool/Utkarsh_Upadhyay31?theme=dark&font=Nunito&ext=contest"/>
+```text
+🎓 Developer who loves turning ideas into working products
+🤖 Interested in AI, Machine Learning & Generative AI
+🌐 Building full-stack applications
+🧠 Strengthening DSA & problem-solving skills
+🚀 Learning by building real-world projects
+```
 
+I enjoy working at the intersection of **AI + Software Development** — from training models and working with data to building interfaces and deploying complete applications.
+
+Currently, I'm focused on becoming a stronger **Software Engineer** by improving my fundamentals, building better projects, and solving challenging problems.
+
+---
+
+## 🏆 A Few Things I've Done
+
+<div align="center">
+
+| 🥇 Achievement                               |  🎯 |
+| :------------------------------------------- | :-: |
+| **1st Place — AI Hack Matrix**               |  🥇 |
+| **Smart India Hackathon Grand Finalist**     |  🏆 |
+| **Built & Deployed AI-powered Applications** |  🚀 |
+| **Consistently Practicing DSA**              |  🧠 |
+
+</div>
+
+---
+
+## ⚡ My Tech Universe
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### 📊 Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,vercel" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Things I've Built
 
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| 🧠 [Manshik Santulan](https://manshik-santulan.vercel.app/) | AI-powered Mental Health Support Platform |
-| 🌾 [Krishi Sahara](https://krishi-sahara.vercel.app/) | Smart Agriculture Assistance Platform |
+### 🧠 Manshik Santulan
+
+> **An AI-powered mental health support platform**
+
+A full-stack platform focused on creating intelligent and supportive user interactions through AI.
+
+**What makes it interesting**
+
+* 🧠 AI Emotion Detection
+* 🤝 AI Companion
+* 📊 Mental Health Analytics
+* 🌬️ Guided Breathing
+* 📅 Smart Daily Check-ins
+* 🚨 Crisis Detection
+* 🔒 Privacy-focused approach
+
+<div>
+<a href="https://manshik-santulan.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</div>
 
 ---
 
-# 🧠 Manshik Santulan
+### 🌾 Krishi Sahara
 
-### ✨ Features
+> **AI-powered smart agriculture platform**
 
-- 🧠 AI Emotion Detection  
-- 🤝 AI Companion  
-- 📊 Mental Health Analytics  
-- 🌬️ Guided Breathing Exercises  
-- 🔒 Privacy Focused  
-- 📱 Smart Daily Check-ins  
-- 🚨 Crisis Detection System  
+A technology-driven platform designed to help farmers make smarter decisions using AI, data and environmental information.
 
-### 🌐 Live Project
+**What it does**
 
-<a href="https://manshik-santulan.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_Visit_Project-green?style=for-the-badge"/>
-</a>
+* 🌱 AI Crop Recommendations
+* 🦠 Plant Disease Detection
+* 📈 Predictive Analytics
+* 🌦️ Weather-aware Insights
+* 💡 Data-driven Farming Decisions
 
-# 🌾 Krishi Sahara
-
- ### ✨ Features
- 
-- 🤖 AI-Powered Crop Recommendations
-- 🦠 AI-Based Plant Disease Detection
-- 📊 Predictive Analytics for Better Yield
-- 🌦️ Weather-Aware Farming Decisions
-- 💡 Data-Driven Agricultural Insights
-
-### 🌐 Live Project
-
+<div>
 <a href="https://krishi-sahara.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_Visit_Project-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+</div>
 
-<h2 align="center">
+---
 
-⭐ Code • Learn • Build • Repeat ⭐
+# 🧠 Problem Solving
 
-</h2>
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+DSA
+ │
+ ├── Problem Solving
+ │
+ ├── Machine Learning
+ │
+ ├── Deep Learning
+ │
+ ├── Generative AI
+ │
+ └── Production-ready AI Applications
+```
+
+---
+
+## 💭 My Approach
+
+> **Learn the fundamentals.
+> Build something real.
+> Break it.
+> Fix it.
+> Repeat.**
+
+---
+
+<div align="center">
+
+### 🚀 Building today. Learning every day.
+
+**If you find something interesting here, feel free to explore my repositories.**
