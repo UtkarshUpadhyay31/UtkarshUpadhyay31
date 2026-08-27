@@ -77,10 +77,16 @@ Currently, I'm focused on becoming a stronger **Software Engineer** by improving
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-### 📊 Data
+### 📊 Data Science & Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="55"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
 </p>
 
 ### 🗄️ Databases & Tools
